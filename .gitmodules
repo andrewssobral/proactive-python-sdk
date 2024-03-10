@@ -4,3 +4,6 @@
 [submodule "proactive-python-client-examples"]
 	path = proactive-python-client-examples
 	url = https://github.com/ow2-proactive/proactive-python-client-examples
+[submodule "proactive-python-client-examples-ai"]
+	path = proactive-python-client-examples-ai
+	url = https://github.com/ow2-proactive/ai-examples.git
