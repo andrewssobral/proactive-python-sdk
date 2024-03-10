@@ -1,0 +1,6 @@
+[submodule "proactive-python-client"]
+	path = proactive-python-client
+	url = https://github.com/ow2-proactive/proactive-python-client
+[submodule "proactive-python-client-examples"]
+	path = proactive-python-client-examples
+	url = https://github.com/ow2-proactive/proactive-python-client-examples
